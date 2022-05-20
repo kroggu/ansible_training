@@ -1,3 +1,6 @@
+[web_servers]
 172.24.24.235
+[db_servers]
 172.24.24.236
+[file_servers]
 172.24.24.237
